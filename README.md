@@ -94,6 +94,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 - [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
 - [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.  
+- [Natalia](https://getnatalia.com/) 🇫🇷 - AI voice assistant for business phone calls, automating inbound and outbound calls.
+- [Recapro](https://recapro.ai/) 🇫🇷 - AI-powered meeting transcription and structured report generation.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
@@ -118,8 +120,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
 - [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.
 - [Filen](https://www.filen.io) 🇩🇪 - End-to-end encrypted cloud storage.
+- [France Nuage](https://france-nuage.fr/) 🇫🇷 - Sovereign open-source cloud platform built on European infrastructure.
 - [Fuga Cloud](https://www.fuga.cloud) 🇳🇱 - OpenStack-based public cloud platform.
 - [gridscale](https://www.gridscale.io) 🇩🇪 - Flexible IaaS and PaaS solutions.
+- [Hook0](https://hook0.com/) 🇫🇷 - Open-source webhooks-as-a-service platform, built in Rust.
 - [Infomaniak kDrive](https://www.infomaniak.com/en/kdrive) 🇨🇭 - Cloud storage with collaboration tools.
 - [Internxt](https://www.internxt.com) 🇪🇸 - Decentralized cloud storage prioritizing privacy.
 - [IONOS](https://www.ionos.com) 🇩🇪 - Comprehensive cloud and web hosting services.
@@ -170,6 +174,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 - [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 - [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
+- [Cloud-IAM](https://cloud-iam.com/) 🇫🇷 - Managed Keycloak SaaS for identity and access management. ISO 27001, SOC 2, SecNumCloud 3.2 certified.
 - [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 - [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules. 
 - [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on. 
