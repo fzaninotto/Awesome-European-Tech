@@ -85,6 +85,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ---
 
 ### AI
+- [Bynevo Labs](https://bynevolabs.com/) 🇫🇷 - Sovereign AI agent for e-commerce customer support, self-hosted in France, GDPR-compliant.
 - [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
 - [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
 - [Leya](https://www.leya.law/) 🇸🇪 - AI-powered legal research and contract analysis platform.
